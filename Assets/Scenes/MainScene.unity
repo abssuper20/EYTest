@@ -5169,7 +5169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 516841531}
-  totalTime: 30
+  totalTime: 20
   mainMenuPanel: {fileID: 211870008}
   gameOverPanel: {fileID: 1510794908}
 --- !u!114 &991779824
